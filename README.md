@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
-- 📫 How to reach me **mdkaif25121999@gmail.com**
+- 📫 How to reach me **kaifmk1295@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1fZf7HalsFFtj3T5P4Xb95vVBsqdIah4y?usp=sharing](https://drive.google.com/drive/folders/1fZf7HalsFFtj3T5P4Xb95vVBsqdIah4y?usp=sharing)
 
